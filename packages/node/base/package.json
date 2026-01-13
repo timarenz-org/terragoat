@@ -43,7 +43,7 @@
     "@angular/animations-12": "npm:@angular/animations@12.2.13",
     "@angular/cli": "13.0.4",
     "@angular/common-12": "npm:@angular/common@12.2.13",
-    "@angular/core-12": "npm:@angular/core@12.2.13",
+    "@angular/core-12": "npm:@angular/core@19.2.18",
     "@angular/forms-12": "npm:@angular/forms@12.2.13",
     "@angular/platform-browser-12": "npm:@angular/platform-browser@12.2.13",
     "@angular/platform-browser-dynamic-12": "npm:@angular/platform-browser-dynamic@12.2.13",
